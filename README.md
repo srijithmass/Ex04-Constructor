@@ -92,8 +92,8 @@ namespace exp4
 }
  ```
  ## Output:
-   <img width="500" src="https://user-images.githubusercontent.com/93427237/229769928-6ad489d2-e463-4573-aa80-2cb8dd7e43d7.png">
-   <img width="500" src="https://user-images.githubusercontent.com/93427237/229770016-2fe2b394-5603-474f-b6e0-8486e087c594.png">
+   <img width="500" src="op1.PNG">
+   <img width="500" src="op2.PNG">
  
  ## Result:
  Hence, a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully
