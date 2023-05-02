@@ -92,7 +92,7 @@ namespace exp4
 }
  ```
  ## Output:
-   [Output](op1.PNG)
+   ![Output](op1.PNG)
  
  ## Result:
  Hence, a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully
